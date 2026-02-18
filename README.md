@@ -27,4 +27,4 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Atmos-Sentinel-AQI.git](https://github.com/YOUR_USERNAME/Atmos-Sentinel-AQI.git)
+  git clone https://github.com/muhammadakwa222/Atmos-Sentinel.git
