@@ -1,6 +1,3 @@
-# Atmos-Sentinel-AQI
-"A professional-grade Air Quality Intelligence dashboard using Random Forest Regressors to analyze 100k+ records of pollutant and atmospheric data. Built with Python and Streamlit."
-
 # Atmos Sentinel: AI-Integrated Environmental Intelligence
 
 Atmos Sentinel is a high-performance predictive dashboard designed to monitor and forecast the Air Quality Index (AQI). Using a robust Machine Learning engine, the system analyzes the complex relationship between industrial pollutants and atmospheric conditions to provide real-time health assessments.
